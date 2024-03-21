@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+   
+   
+    position: fixed; /* Fixed positioning */
+    top: 0; /* Stick to the top */
+    width: 100%; /* Full width */
+    background-color: white; /* Background color */
+    padding: 5px 0; /* Padding */
+    z-index: 1000; /* Ensure it's above other content */
+}
+.nav-item:hover{
+    color: blue;
+}
+.navv{
+    padding: 10px;
+    margin-left: 10px;
+}
+
+/* .nav-item{
+    justify-content: space-around;
+} */
+
+
+/* .customnav{
+    position: fixed;
+    top: 0;
+} */
