@@ -1,0 +1,15 @@
+.wrapper{
+    /* display: flex; */
+    padding-top: 50px;
+}
+.image-wrapper{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+.new-div{
+    min-width: 900px;
+    max-width: 900px; 
+}
+

@@ -1,0 +1,12 @@
+.Achivement-container{
+    height: 600px;
+}
+.achi-firstdiv{
+    padding-top: 65px;
+}
+.achi-wrap-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 65px;
+}

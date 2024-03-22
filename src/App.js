@@ -5,6 +5,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './Home';
 import Benifits from './Benefits';
 import BoxComponent from './Demo';
+import Chapters from './Chapters';
+import Author from './Author';
+import Achivements from './Achievements';
+import Awesome from './Awesome';
 
 function App() {
   return (
@@ -13,7 +17,10 @@ function App() {
         <Navbar/>
         <Home/>
         <Benifits/>
-        {/* <BoxComponent/> */}
+        <Chapters/>
+        <Author/>
+        <Achivements/>
+        <Awesome/>
       </div>
       
     </div>
