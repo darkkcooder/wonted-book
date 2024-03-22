@@ -21,12 +21,12 @@ const Awesome = () => {
           <h6>Writing Hours</h6>
         </div>
         <div className="booxx">
-          <h2>35</h2>
-          <h6>Achivements</h6>
+          <h2>992</h2>
+          <h6>Total Sells</h6>
         </div>
         <div className="booxx">
-          <h2>35</h2>
-          <h6>Achivements</h6>
+          <h2>20</h2>
+          <h6>Awards</h6>
         </div>
       </div>
     </div>
