@@ -8,6 +8,7 @@ const Awesome = () => {
         <h2>ALL MILESTONES ACHIEVED</h2>
       </div>
       <div className="booxx-wrapper">
+      {/* <img src="https://wonted-react.vercel.app/assets/icons/page.svg" className="iimg img-fluid"></img> */}
         <div className="booxx">
           <h2>35</h2>
           <h6>Achivements</h6>
